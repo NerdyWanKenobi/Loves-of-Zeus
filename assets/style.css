@@ -18,7 +18,8 @@ nav a {
 }
 
 nav {
-    background-color: white;
+    /*background-color: white;*/
+    text-align: center;
 }
 
 a:hover {
@@ -27,4 +28,13 @@ a:hover {
 
 .navLink {
     color: red;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+}
+
+body {
+    text-align: center;
 }
