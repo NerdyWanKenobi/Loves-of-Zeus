@@ -1,0 +1,26 @@
+.btn {
+    height: 50px;
+    background-image: linear-gradient(dodgerblue, royalblue);
+    color: white;
+    border-radius: 15px;
+}
+
+.btn:hover {
+    background-image: linear-gradient(royalblue, dodgerblue);
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav {
+    background-color: white;
+}
+
+a:hover {
+    color: red;
+}
