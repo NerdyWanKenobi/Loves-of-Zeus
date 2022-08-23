@@ -24,3 +24,7 @@ nav {
 a:hover {
     color: red;
 }
+
+.navLink {
+    color: red;
+}
